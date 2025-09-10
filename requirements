@@ -1,0 +1,20 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning
+tensorflow
+keras
+torch
+torchvision
+
+# Image processing
+opencv-python
+Pillow
+
+# Jupyter (optional if you're using notebooks)
+jupyter
+notebook
